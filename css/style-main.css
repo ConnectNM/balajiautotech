@@ -88,6 +88,9 @@ This file contains the common styles of this theme.
  * Typography.less
  * -----------------------------------------------
 */
+
+
+
 ::selection {
   background: #333333;
   color: #fff;
@@ -197,7 +200,7 @@ h6,
 .h4,
 .h5,
 .h6 {
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Work Sans', sans-serif;
   font-weight: 600;
   line-height: 1.42857143;
   color: #333333;
@@ -248,7 +251,7 @@ form {
 }
 /* -------- Custom Font Family ---------- */
 .font-trirong {
-  font-family: 'Trirong', serif;
+  font-family: 'anton', serif;
 }
 .font-raleway {
   font-family: 'Raleway', sans-serif;
@@ -6442,6 +6445,8 @@ blockquote p {
 .footer-bottom {
   border-top: 1px solid #333;
 }
+
+
 
 /*# sourceMappingURL=style-main.css.map */
 
